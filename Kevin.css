@@ -7,7 +7,7 @@ html{background: url("https://scontent.fsnc1-4.fna.fbcdn.net/v/t1.0-9/15241783_1
 p{
   text-align: center;
   font-family: "Comic Sans MS", cursive, sans-serif;
-  text-color: white;
+  color: white;
 }
 .Button{
   text-align:center;
@@ -16,5 +16,5 @@ p{
 
 }
 iframe{
-  align: center;
+  text-align: center;
 }
